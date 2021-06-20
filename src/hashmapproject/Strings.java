@@ -14,6 +14,5 @@ public final class Strings {
     public static final String ADDED_PAGES = "The following Web pages were ADDED: ";
     public static final String MODIFIED_PAGES = "The following Web pages were MODIFIED: ";
     public static final String REGARDS = "\nBest regards,\nAutomatic monitoring system.";
-    //  TODO edit regex!
-    public static final String EMAIL_REGEX = "^[a-zA-Z0-9]+@[a-zA-Z0-9]+(.[a-zA-Z]{2,})$";
+    public static final String EMAIL_REGEX = "^[\\w!#$%&’*+/=?`{|}~^-]+(?:\\.[\\w!#$%&’*+/=?`{|}~^-]+)*@(?:[a-zA-Z0-9-]+\\.)+[a-zA-Z]{2,6}$";
 }
