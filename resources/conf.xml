@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<yesterday>
+		<item url="a.html" source="" />
+		<item url="b.html" source="" />
+		<item url="c.html" source="resources/c.html" />
+		<item url="d.html" source="" />
+		<item url="e.html" source="" />
+	</yesterday>
+	<today>
+		<item url="c.html" source="resources/c1.html" />
+	</today>
+</data>
